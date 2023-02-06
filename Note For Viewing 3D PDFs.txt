@@ -1,0 +1,3 @@
+Note:
+
+The Google Chrome HTML PDF viewer does not support 3D model views. To view the 3D versions of the PDF, it is recommended to open them in Adobe Acrobat reader.
